@@ -1,0 +1,16 @@
+C:\Users\metin\source\repos\odev5\odev5\bin\Debug\net8.0-windows\odev5.exe
+C:\Users\metin\source\repos\odev5\odev5\bin\Debug\net8.0-windows\odev5.deps.json
+C:\Users\metin\source\repos\odev5\odev5\bin\Debug\net8.0-windows\odev5.runtimeconfig.json
+C:\Users\metin\source\repos\odev5\odev5\bin\Debug\net8.0-windows\odev5.dll
+C:\Users\metin\source\repos\odev5\odev5\bin\Debug\net8.0-windows\odev5.pdb
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.Form1.resources
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.csproj.GenerateResource.cache
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.AssemblyInfoInputs.cache
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.AssemblyInfo.cs
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.dll
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\refint\odev5.dll
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.pdb
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\odev5.genruntimeconfig.cache
+C:\Users\metin\source\repos\odev5\odev5\obj\Debug\net8.0-windows\ref\odev5.dll
