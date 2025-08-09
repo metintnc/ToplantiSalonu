@@ -5,3 +5,5 @@ Kullanıcılar, Windows Form arayüzü üzerinden rezervasyon bilgilerini (oda s
 Rezervasyonlar, FileStream kullanılarak yerel dosyaya kaydedilecek.
 Aynı saat için rezervasyon yapılmak istendiğinde, sistem dolu olduğunu bildirip en yakın uygun zamanı önerecek.
 Özet butonuna tıklandığında, o gün için tüm odaların rezervasyon bilgileri topluca görüntülenecek
+
+"Bilgisayar Mühendisliği 1.sınıf C# dilinde 2.ödev"
